@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 06 Jul 2025 16:23:12 at https://personplaceorthingontv.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://personplaceorthingontv.com/ -O1 "C:\My Web Sites\place2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:23:38	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://personplaceorthingontv.com/)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/ajax-loader.0b80f6.gif (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/fonts/slick.25572f.eot (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/fonts/slick.25572f.eot? (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/fonts/slick.653a4c.woff (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/fonts/slick.6aa1ee.ttf (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+16:23:56	Error: 	"Not Found" (404) at link https://personplaceorthingontv.com/app/themes/personplaceorthing/node_modules/slick-carousel/slick/fonts/slick.f895cf.svg (from https://personplaceorthingontv.com/app/themes/personplaceorthing/public/css/app.0294e9.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 44 links scanned, 36 files written (14636100 bytes overall) [9121676 bytes received at 202703 bytes/sec], 8450612 bytes transferred using HTTP compression in 19 files, ratio 32%, 2.6 requests per connection
+(7 errors, 0 warnings, 0 messages)

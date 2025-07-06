@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+personplaceorthingontv.com	TRUE	/	FALSE	1999999999	PHPSESSID	df6161843e37c7b498feee34783520fa
+.hcaptcha.com	TRUE	/	FALSE	1999999999	__cf_bm	Iny5gA30FPiOyls_.0twYUKR29cejqem0gg7DnRQOW8-1751844198-1.0.1.1-ihX_fAYBaA4eUJUFYJgF28FHf9vvc2ZnCMqUnIkmYXYkYBOnHaQi9O0BL8dNfQPRQlnOudKMrKUqk3LrLIUoz6MeiLb1x2XfsxAekK_0XbI
+js.hcaptcha.com	TRUE	/	FALSE	1999999999	SameSite	None
+
